@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fjuniorfjunior-rgb.github.io/fbsj-tecnologia/sitemap.xml

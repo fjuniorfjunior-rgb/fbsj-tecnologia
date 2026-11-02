@@ -1,0 +1,14 @@
+{
+  "name": "FBSJ Tecnologia",
+  "short_name": "FBSJ",
+  "description": "Desenvolvimento de software sob medida, APIs e integrações.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B1E3C",
+  "theme_color": "#0B1E3C",
+  "icons": [
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/img/logo-256.png", "sizes": "256x256", "type": "image/png" }
+  ]
+}
